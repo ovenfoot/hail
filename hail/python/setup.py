@@ -20,7 +20,7 @@ with open('requirements.txt', 'r') as f:
             dependencies.append(line.strip())
 
 setup(
-    name="hail",
+    name="j11hail",
     version=hail_pip_version,
     author="Hail Team",
     author_email="hail@broadinstitute.org",
