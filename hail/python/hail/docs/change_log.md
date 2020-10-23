@@ -22,6 +22,14 @@ Please note that **forward compatibility should not be expected, especially
 relating to file formats**: this means that it may not be possible to use
 an earlier version of Hail to read files written in a later version.
 
+## Version 99.2.58 (J11, Spark3.0 fork)
+
+Released 2020-10-23
+
+### New features
+- Compatibility with Java 11
+- Compatibiltiy with Spark 3.0.0 and Scala 2.12.x
+
 ## Version 0.2.58
 
 Released 2020-10-08
